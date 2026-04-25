@@ -98,12 +98,12 @@ If you or someone you know is in crisis, please reach out:
 
 We used Claude mostly for knowing how to integrate everything together from the frontend to the API calls. We also used Claude to help design our frontend and pick colors that would appeal to users. A lot of tedious work was saved because of Claude and helped us focus on our idea more.
 
-#Challenges & Solutions -
+# Challenges & Solutions -
 
 At first, we had trouble using the API calls on Google Cloud since we didn’t want to start a free trial. However, none of the other databases had reliable access to maps and Google Maps was the best map in the end. However, integrating the API key into our code was quite difficult since there were a lot of different features involved on Google Cloud. 
 We solved this by working through it slowly and not being totally reliant on AI to work through our problems since it did not have access to our personal accounts. We worked more together to figure out what was wrong and figure out the issue with our key.
 
-#Future Plans -
+# Future Plans -
 
 We really want to stress the importance of mental health and sometimes it could seem like people don’t need help or don’t deserve it. It might be worthwhile to help people reach out more easily and talk with other like-minded people through an online chatting system or just help locate people to talk to more easily. We want to build a future where everyone can get the help that they need!
 
